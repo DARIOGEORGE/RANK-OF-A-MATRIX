@@ -22,9 +22,10 @@ a=n.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 r=n.linalg.matrix_rank(a)
 print(r)
 ```
-## Output:
 
-![output](./ex2.png)
+# Output:
+
+#![ex2](https://user-images.githubusercontent.com/118704873/209904158-35216199-9c86-43e3-9008-34ac2915bc13.png)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
